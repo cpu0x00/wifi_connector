@@ -1,2 +1,1 @@
-# wifi_connector
-a simple script to connect to wifi without a gui
+a personal script to use in setting up headless os's that needs a wifi connectivity 
